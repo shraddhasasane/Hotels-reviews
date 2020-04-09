@@ -6,6 +6,8 @@ Students Performance Evaluation using Feature Enginerring , Feature Extraction, 
 
 Group members TE-IT-B
 
-1.Chaitali Patil-34
-2.Kajol Pawar-39
-3.Shraddha Sasane-46
+Chaitali Patil-34
+
+Kajol Pawar-39
+
+Shraddha Sasane-46
