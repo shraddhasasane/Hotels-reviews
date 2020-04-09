@@ -1,10 +1,8 @@
 # Hotels-reviews
 
-Students Perfomance
+Hotels Reviews  Evaluation using Graphs, Confusion Matrix, Data Preprocessing, Manipulation of data,Data Prediction and at last applying classification Algorithms 
 
-Students Performance Evaluation using Feature Enginerring , Feature Extraction, Manipulation of data, Data Visualization and at last applying classification Algorithms to separat students with different grades.
-
-Group members TE-IT-B
+# Group members TE-IT-B
 
 Chaitali Patil-34
 
