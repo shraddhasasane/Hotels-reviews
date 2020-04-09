@@ -1,2 +1,9 @@
 # Hotels-reviews
-This is a list of 1,000 hotels and their reviews provided by Datafiniti's Business Database. The dataset include Property Name,,Review Rating,Review Title,Review Text,Location Of The Reviewer,Date Of Review,   
+
+Students Perfomance
+Students Performance Evaluation using Feature Enginerring , Feature Extraction, Manipulation of data, Data Visualization and at last applying classification Algorithms to separat students with different grades.
+
+Group members TE-IT-B
+  1.Chaitali Patil-34
+  2.Kajol Pawar-39
+  3.Shraddha Sasane-46
